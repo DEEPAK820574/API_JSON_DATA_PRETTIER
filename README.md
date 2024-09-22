@@ -52,12 +52,12 @@ You can download the extension using this link: [Download Extension](https://dri
 
 ### Steps to Use the Extension 🛠️
 
-1. Download the whole folder.
+1. Download the whole folder(It took sometimes to get download ,so have patience).
 2. Open Chrome.
 3. Go to **Manage Extensions**.
 4. Enable **Developer mode** (toggle on the top right).
 5. Click on **Load unpacked** on the top left.
-6. Navigate to the downloaded folder, open the `build` folder, and select it.
+6. Navigate to the downloaded folder, open the `build` folder, and select it(don't forget to extract it, as it is Zip format).
 
 Now you're ready to use it! Type `someapi` and test the extension. 
 
